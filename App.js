@@ -16,6 +16,8 @@ export default class App extends React.Component {
                 style={styles.container}
                 behavior="padding"
             >
+
+
                 <Text>Gmail Type Input Field</Text>
                 <View style={{width:"100%",marginBottom: 10}}>
                     <GmailInput label='Email or Phone'
