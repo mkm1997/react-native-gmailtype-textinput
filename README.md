@@ -1,7 +1,7 @@
 # React Native Gmailtype Textinput 
 ### react-native-gmailtype-textinput
-A React Native component that allow you to use latest Gmail Type Text Input Field in react-native app.It is compitible both 
-with expo and react-native-init.
+A React Native component that allow you to use latest Gmail Type Text Input Field in react-native app.It is compatible with both 
+expo and react-native-init.
 it is a cross platform componenet so it can be use in both android as well as ios. 
 
 
