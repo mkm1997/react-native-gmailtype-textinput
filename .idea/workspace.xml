@@ -71,8 +71,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="205" selection-start-line="6" selection-start-column="205" selection-end-line="6" selection-end-column="205" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="231" selection-start-line="5" selection-start-column="231" selection-end-line="5" selection-end-column="231" />
               </first_editor>
               <second_editor />
             </state>
@@ -217,12 +217,12 @@
       <workItem from="1552060696921" duration="1178000" />
       <workItem from="1552073785113" duration="594000" />
       <workItem from="1552111432563" duration="4478000" />
-      <workItem from="1552116169748" duration="2154000" />
+      <workItem from="1552116169748" duration="2396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8404000" />
+    <option name="totallyTimeSpent" value="8646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -302,8 +302,8 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="205" selection-start-line="6" selection-start-column="205" selection-end-line="6" selection-end-column="205" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="231" selection-start-line="5" selection-start-column="231" selection-end-line="5" selection-end-column="231" />
           </first_editor>
           <second_editor />
         </state>
