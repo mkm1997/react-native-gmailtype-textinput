@@ -18,13 +18,19 @@ it is a cross platform componenet so it can be used in both android as well as i
 
 with npm
 
->npm i react-native-gmailtype-textinput
->react-native link react-native-gmailtype-textinput
+ ```
+ npm i react-native-gmailtype-textinput
+ react-native link react-native-gmailtype-textinput
+ ```
 
 with yarn
 
->yarn add react-native-gmailtype-textinput
->react-native link react-native-gmailtype-textinput
+ ```
+ yarn add react-native-gmailtype-textinput
+ react-native link react-native-gmailtype-textinput
+```
+
+
 
 
 
