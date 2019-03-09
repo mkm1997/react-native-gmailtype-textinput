@@ -29,14 +29,14 @@
         <counts>
           <entry key="js" value="392" />
           <entry key="json" value="107" />
-          <entry key="md" value="2" />
+          <entry key="md" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="107" />
           <entry key="JavaScript" value="392" />
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -74,7 +74,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="60">
-                <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+                <caret line="4" column="110" selection-start-line="4" selection-start-column="110" selection-end-line="4" selection-end-column="110" />
               </first_editor>
               <second_editor />
             </state>
@@ -219,12 +219,12 @@
       <workItem from="1552060696921" duration="1178000" />
       <workItem from="1552073785113" duration="594000" />
       <workItem from="1552111432563" duration="4478000" />
-      <workItem from="1552116169748" duration="1444000" />
+      <workItem from="1552116169748" duration="1596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7694000" />
+    <option name="totallyTimeSpent" value="7846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -306,7 +306,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
-            <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <caret line="4" column="110" selection-start-line="4" selection-start-column="110" selection-end-line="4" selection-end-column="110" />
           </first_editor>
           <second_editor />
         </state>
