@@ -9,12 +9,12 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^31.0.2",
-    "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "expo": "^49.0.0",
+    "react": "18.2.0",
+    "react-native": "0.72.5",
     "react-native-gmailtype-textinput": "^1.0.2"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "babel-preset-expo": "^9.5.0"
   }
 }
